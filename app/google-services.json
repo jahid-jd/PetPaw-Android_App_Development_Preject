@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "660097258976",
+    "project_id": "petpaw30699",
+    "storage_bucket": "petpaw30699.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660097258976:android:1a3a45abb9070673730785",
+        "android_client_info": {
+          "package_name": "com.example.petpaw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660097258976-ak89n39ct6grndg7tb4al74v2dv318tf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3DQCABsQJrCl966D8T9fonlJQFS4kKuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660097258976-ak89n39ct6grndg7tb4al74v2dv318tf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
